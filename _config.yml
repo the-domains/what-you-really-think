@@ -1,6 +1,6 @@
 name: What You Really Think
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.49669
 typography_spectrum: 0.65093
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#0c0c0c'
     - '#3a3a3a'
     - '#606060'
-  brandStrength: 0.5
-  lightness: 0.4268973437137902
-  saturation: 0.790356773417443
-  rhythmicContrast: 0.5
+  brandStrength: 0.1875
+  lightness: 0.375
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []

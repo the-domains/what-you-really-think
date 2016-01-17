@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[What You Really Think]]></title>
         <description><![CDATA[What You Really Think]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/what-you-really-think/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 17:35:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 17:35:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/what-you-really-think/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/219d6558-08a8-4a54-bd31-22df8add9d3b.jpg">]]></description>
+            <link>https://thegrid.ai/what-you-really-think/1173e495-9d2c-4888-a48d-d82c2e2efc1d/index.html</link>
+            <guid isPermaLink="false">1173e495-9d2c-4888-a48d-d82c2e2efc1d</guid>
+            <pubDate>Sun, 17 Jan 2016 17:35:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcedcd33-f871-4e32-851b-f74b654141a1.jpg">]]></description>
-            <link>undefined475c5344-d7cc-4058-bead-8bb60fa7eabc/index.html</link>
+            <link>https://thegrid.ai/what-you-really-think/475c5344-d7cc-4058-bead-8bb60fa7eabc/index.html</link>
             <guid isPermaLink="false">475c5344-d7cc-4058-bead-8bb60fa7eabc</guid>
             <pubDate>Sun, 17 Jan 2016 17:35:39 GMT</pubDate>
         </item>

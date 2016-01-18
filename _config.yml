@@ -1,7 +1,7 @@
 name: What You Really Think
 favicon: null
-layout_spectrum: 0.49669
-typography_spectrum: 0.65093
+layout_spectrum: 0.5270911832340062
+typography_spectrum: 0.6629684390500188
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f9f9f9'
-    - '#9f9f9f'
-    - '#0c0c0c'
-    - '#3a3a3a'
-    - '#606060'
-  brandStrength: 0.1875
-  lightness: 0.375
-  saturation: 0.625
-  rhythmicContrast: 0.75
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.48571720672771335
+  lightness: 0.4268973437137902
+  saturation: 0.790356773417443
+  rhythmicContrast: 0.07928793621249497
 purpose: []
